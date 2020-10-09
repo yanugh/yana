@@ -1,0 +1,136 @@
+body {
+    background-color:#090A0B;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+
+.box {
+    background-image:url(image/hanabitch.jpg);
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    padding: 25px;
+    position: relative;
+    }
+
+.box >p {
+    color: #ffffff;
+    position: absolute;
+    bottom: 30px;
+    right: 16px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.box > p1 {
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 30px;
+    right: 16px;
+    font-size: 18px;
+}
+.logo {
+    width: 150px;
+    position: absolute;
+    bottom: 50px;
+    
+}
+#main-header {
+      background-color: #000000;
+  }
+
+  .container {
+      width: 80%;
+      margin-left: 20px;
+      overflow: hidden;
+  }
+  nav ul {
+    padding-left: 0px;
+    list-style: none;
+  }
+
+  #navibar li {
+     display: inline;
+  
+
+  }
+
+  #navibar a { 
+      color: #E2D8D8;
+      font-size: 20px;
+      text-decoration: none;
+      
+      padding-right: 15px;
+
+  }
+
+#navibar a:hover {
+ color: red;
+
+}
+
+  .title {
+    color: #E2D8D8;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-family: papyrus;
+    font-style: italic;
+
+  }
+
+
+  .motto {
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),url(image/hanabi3.jpg) center no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+    padding: 70px;
+    position: relative;
+
+  }
+
+  .motto > p {
+    color: #000000;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#main-footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 1000px;
+}
+  
+.games {
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+#gameplay > h3 {
+  position: relative;
+}
+
+#gameplay {
+  float: left;
+  width: 40%;
+  padding: 0 20px;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+#sidebar {
+  float: right;
+  width: 40%;
+  box-sizing: border-box;
+  padding: 50 20px;
+  margin-right: 10px;
+  margin-top: 5%;
+}
