@@ -7,7 +7,7 @@ body {
 
 
 .box {
-    background-image:url(image/hanabitch.jpg);
+    background-image:url(hanabitch.jpg);
     height: 450px;
     background-position: center;
     background-size: cover;
@@ -85,7 +85,7 @@ body {
 
 
   .motto {
-    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),url(image/hanabi3.jpg) center no-repeat;
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),url(hanabi3.jpg) center no-repeat;
     background-position: center;
     background-size: cover;
     height: 100px;
